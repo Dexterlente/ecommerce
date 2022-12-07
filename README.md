@@ -1,6 +1,6 @@
 # Ecommerce
 
-### This website is made using django framework and frontend is rendered by django templating system.
+### This Ecommerce website is made using django framework and frontend is rendered by django templating system.
 ***
 - `Create Listing:` Users should be able to visit a page to create a new listing. They should be able to specify a title for the listing, a text-based description, and what the starting bid should be.
 - `Active Listings Page:` The default route of your web application should let users view all of the currently active auction listings. For each active listing, this page should display (at minimum) the title, description, current price, and photo.
